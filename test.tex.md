@@ -1,4 +1,4 @@
-[TOC]
+
 
 # Section 1
 
